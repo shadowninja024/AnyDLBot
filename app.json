@@ -14,9 +14,9 @@
     "remote",
     "uploader"
   ],
-  "success_url": "https://telegram.dog/AnyDLBot",
-  "website": "https://github.com/SpEcHiDe/AnyDLBot",
-  "repository": "https://github.com/SpEcHiDe/AnyDLBot",
+  "success_url": "https://telegram.dog/Shadow_dlbot",
+  "website": "https://github.com/shadowninja240/AnyDLBot",
+  "repository": "https://github.com/shadowninja240/AnyDLBot",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable VARs when in ENV mode",
